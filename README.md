@@ -11,12 +11,12 @@ Poniżej lista tematów. Każdy musi wybrać jeden temat (ale możliwe są dwuos
 
 ## I Grafika, interaktywna grafika
 1. Node-RED (http://nodered.org/) [Tomsia+Kuczera]
-2. D3 (http://d3js.org/) [Kamiński][Dejnak]
+2. D3 (http://d3js.org/) [Kamiński]
 3. Fabric.js (http://fabricjs.com/) [Kula]
 4. Three.js (http://threejs.org/) [Tomanek+Wykusz]
 
 ## II Gry
-1. CreateJS (http://createjs.com/) [Kowalczyk]
+1. CreateJS (http://createjs.com/) [Kowalczyk][Dejnak]
 2. Phaser (http://phaser.io/) [Kindla]
 3. pixi.js (http://www.pixijs.com/) [Bajor+Lenik][Sadlik+Radej]
 
